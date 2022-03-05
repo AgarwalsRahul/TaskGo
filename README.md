@@ -10,7 +10,10 @@ A ToDo app that lets you track your tasks.
 <img src="/screenshots/image1.png" width="260">&emsp;<img src="/screenshots/image2.png"
 width="260">&emsp;<img src="/screenshots/image3.png" width="260">&emsp;
 
-<img src="/screenshots/image4.png" width="260">&emsp;<img src="/screenshots/image5.png" width="260">
+<img src="/screenshots/image4.png" width="260">&emsp;<img src="/screenshots/image5.png" width="260">&emsp;<img src="/screenshots/image6.png" width="260">&emsp;
+&emsp;
+
+<img src="/screenshots/image7.png" width="260">&emsp;
 <br>
 
 ## Android Concepts Used Here:
