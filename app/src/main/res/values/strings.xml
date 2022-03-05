@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tasks</string>
+    <string name="log_out">Log Out</string>
+    <string name="save">Save</string>
+    <string name="new_task">New Task</string>
+    <string name="enter_a_task">Enter a Task</string>
+    <string name="tasks">Tasks</string>
+    <string name="add_new_task">Add new task</string>
+    <string name="sign_in_with_google">Sign In with Google</string>
+</resources>
