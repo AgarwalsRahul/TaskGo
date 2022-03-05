@@ -1,7 +1,7 @@
 # TaskGo
 A ToDo app that lets you track your tasks.
 
-### Status: 🚧 In progress 🚧
+
 
 # Installation
 [Click Here]() to download the apk.
